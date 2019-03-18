@@ -2,10 +2,10 @@
 Django backend for SIP
 
 git clone https://github.com/Naveenxyz/sipbackend.git <br/>
-cd sipbackend
-virtualenv venv -p python3
-source ./venv/bin/activate
-pip install -r req.txt
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver ip:port
+cd sipbackend <br/>
+virtualenv venv -p python3 <br/>
+source ./venv/bin/activate<br/>
+pip install -r req.txt<br/>
+python manage.py makemigrations<br/>
+python manage.py migrate<br/>
+python manage.py runserver ip:port<br/>
